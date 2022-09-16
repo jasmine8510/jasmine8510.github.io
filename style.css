@@ -21,7 +21,6 @@ a {
 }
 
 #logo, .project-img {
-    /**--max-height: 300px;-->*/
     width: 400px;
     height: 300px;
 }
@@ -46,7 +45,7 @@ a {
 }
 
 .bg-2 {
-    background-color: #232324; /
+    background-color: #232324; 
     color: #232324;
 }
 
@@ -84,7 +83,6 @@ a {
     border: 0;
     border-radius: 0;
     margin-bottom: 0;
-    //*font-size: 12px;*/
     letter-spacing: 5px;
 }
 
