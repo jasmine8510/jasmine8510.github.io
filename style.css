@@ -17,7 +17,7 @@ p {
 }
 
 a {
-    color: #2e72a1;
+    color: #232324;
 }
 
 #logo, .project-img {
@@ -40,12 +40,12 @@ a {
 
 .bg-1 {
     background-color: #232324;
-    color: #555555;
+    color: #232324;
 }
 
 .bg-2 {
     background-color: #232324; /
-    color: #ffffff;
+    color: #232324;
 }
 
 .card {
